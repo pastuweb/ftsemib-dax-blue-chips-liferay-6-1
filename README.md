@@ -8,6 +8,3 @@ I am passionate about finance and equity investments. On investing.com data rela
 
 Upon loading the main class associated with the portlet, are triggered scanner / parser of DOM-type on a checklist of pre-selected pages (each page identifies a blue chip). These scanners gather the most relevant information and show them in a "colored" to the user in a tabular format / matrix.
 
--
-Required Deployment Contexts: Pasturenzi-hook
--
